@@ -1,0 +1,6 @@
+FIRSTNAME,LASTNAME,EMAIL,PHONE,ReceiveEmail
+Test,Person,test@exmple.com,200,FALSE
+Norman,Brother,test@exmple.com,666,TRUE
+Test,Individual,test@exmple.com,542,FALSE
+Testy,Individual,test@exmple.com,542,TRUE
+Tasty,Individual,test@exmple.com,542,FALSE
